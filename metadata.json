@@ -1,0 +1,6 @@
+{
+  "name": "Gacor Driver AI",
+  "description": "Assistant intelligence foundation for ride-hailing drivers with GPS and network monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
